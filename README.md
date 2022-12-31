@@ -1,7 +1,7 @@
 # SBM Stock Manager
 
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
 
 - SBM stock manager est un programme qui nous permet de gerer le stockage des produits :  
  Ajout    
