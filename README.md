@@ -3,7 +3,7 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
-- SBM stock manager est un program qui nous permet de gerer le stockage des produits :  
+- SBM stock manager est un programme qui nous permet de gerer le stockage des produits :  
  Ajout    
  Supression   
  Modification   
@@ -30,7 +30,7 @@ Ce qu'il est requis pour commencer avec SBM Stock Manager projet :
 ### Installation
 
 - Executez le fichier       .exe
-- votre program s'execute et vous pouvez ainsi realiser les operations d'ajout,de supression,de modification,de recherche et de l'affichage d'historique
+- votre programme s'execute et vous pouvez ainsi realiser les operations d'ajout,de supression,de modification,de recherche et de l'affichage d'historique
 
 ## Fabriqué avec
 
