@@ -19,10 +19,6 @@
 
 - la recherche , la modification et la supression d'un produit se fait par la reference du produit 
 
-## Pour commencer
-
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 ### Pré-requis
 
 Ce qu'il est requis pour commencer avec SBM Stock Manager projet :
@@ -42,8 +38,8 @@ Ce qu'il est requis pour commencer avec SBM Stock Manager projet :
 
 ## Auteurs
 
-* **Bel Hadj Rhouma Bilel**[@outout14](https://www.facebook.com/baloula.belhadjrhouma)
-* **Mohamed Djebbi**[@outout14](https://www.facebook.com/mohamed.djebbi.1217727)
-* **Bichiou Souheil**[@souheil.bichiou@ensi-uma.tn](https://www.facebook.com/souheil.bichiou.9)
+* **Bel Hadj Rhouma Bilel** bilel.belhadjrhouma@ensi-uma.tn
+* **Mohamed Djebbi** mohamed.djebbi@ensi-uma.tn
+* **Bichiou Souheil** souheil.bichiou@ensi-uma.tn
 
 
